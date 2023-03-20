@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Razib91lightspeed/Razib91lightspeed/blob/main/Razib_Hasan.png)
 <h1 align="center">Hi 👋, I'm Razib Hasan</h1>
-<h3 align="center">A passionate Software Engineer from Finland</h3>
+<h3 align="center">An enthusiastic & passionate Software Engineer living in Finland</h3>
 <img align= "right" alt="coding" width= "400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razib91lightspeed&label=Profile%20views&color=0e75b6&style=flat" alt="razib91lightspeed" /> </p>
