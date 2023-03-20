@@ -1,5 +1,4 @@
-# Razib91lightspeed
-# Razib_Hasan
+
 
 ![logo](https://github.com/Razib91lightspeed/Razib91lightspeed/blob/main/Razib_Hasan.png)
 <h1 align="center">Hi 👋, I'm Razib Hasan</h1>
