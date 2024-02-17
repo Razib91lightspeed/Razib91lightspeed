@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@razibha28487029" target="blank"><img src="https://img.shields.io/twitter/follow/@razibha28487029?logo=twitter&style=for-the-badge" alt="@razibha28487029" /></a> </p>
 
-- 🌱 I’m currently learning **Machine & Deep Learning, sharpening C++ & Python skills**
+- 🌱 I’m currently learning **Machine & Deep Learning, sharpening Python & C++ skills**
 
 - ⚡ Fun fact **I love exploring new things such a visiting new places.**
 
