@@ -19,7 +19,7 @@ My focus is on **health tech, embedded AI, and scalable software architectures**
 - 🔬 **Health Tech** (embedded + optics + ML)
 - 🤖 Embedded systems & hardware–software co-design
 - 📊 Machine Learning & signal processing
-- ☁️ MLOps (Model Training)
+- ☁️ MLOps (Kubernetes + Model Training)
 - 🚀 Turning research prototypes into real products
 
 ---
