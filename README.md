@@ -16,7 +16,7 @@ My focus is on **health tech, embedded AI, and scalable software architectures**
 ---
 
 ## 🧠 What I’m focused on right now
-- 🔬 **Health Tech* (embedded + optics + ML)
+- 🔬 **Health Tech** (embedded + optics + ML)
 - 🤖 Embedded systems & hardware–software co-design
 - 📊 Machine Learning & signal processing
 - ☁️ MLOps (Model Training)
