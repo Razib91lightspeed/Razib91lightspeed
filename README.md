@@ -1,3 +1,10 @@
+<img 
+  src="https://github.com/Razib91lightspeed/Razib91lightspeed/blob/main/Razib_Hasan.png" 
+  alt="Razib Hasan Banner"
+  width="100%"
+/>
+
+
 # 👋 Hi, I'm Razib Hasan
 
 **Software Engineer | Embedded Systems & ML | Builder of real-world systems**  
