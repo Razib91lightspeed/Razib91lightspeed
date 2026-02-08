@@ -68,14 +68,21 @@ My focus is on **health tech, embedded AI, and scalable software architectures**
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razib91lightspeed&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razib91lightspeed&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razib91lightspeed&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razib91lightspeed&theme=transparent"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razib91lightspeed&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razib91lightspeed&theme=transparent"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razib91lightspeed&theme=transparent&utcOffset=2"/>
+</p>
+
 
 ---
 
