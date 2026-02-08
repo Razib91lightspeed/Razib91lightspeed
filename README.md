@@ -16,10 +16,10 @@ My focus is on **health tech, embedded AI, and scalable software architectures**
 ---
 
 ## 🧠 What I’m focused on right now
-- 🔬 **Non-invasive glucose monitoring system** (embedded + optics + ML)
+- 🔬 **Health Tech* (embedded + optics + ML)
 - 🤖 Embedded systems & hardware–software co-design
 - 📊 Machine Learning & signal processing
-- ☁️ Scalable backend systems, DevOps & cloud-native tools
+- ☁️ MLOps (Model Training)
 - 🚀 Turning research prototypes into real products
 
 ---
