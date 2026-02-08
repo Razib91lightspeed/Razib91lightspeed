@@ -66,8 +66,6 @@ My focus is on **health tech, embedded AI, and scalable software architectures**
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Insights
 
 <p align="center">
