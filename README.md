@@ -1,85 +1,69 @@
-<img src="https://github.com/Razib91lightspeed/Razib91lightspeed/blob/main/Razib_Hasan.png" width="120" align="right"/>
+# 👋 Hi, I'm Razib Hasan
 
-# Hi, I'm Razib Hasan 👋  
-**Software Engineer · Embedded Systems · ML/AI**  
-📍 Finland
+**Software Engineer | Embedded Systems & ML | Builder of real-world systems**  
+📍 Finland 🇫🇮
 
-I build **real-world systems** where **software meets hardware**, with a strong focus on  
-**health technology, embedded systems, and data-driven intelligence**.
+I design and build **end-to-end systems** — from low-level embedded hardware to cloud-backed software and data-driven intelligence.  
+My focus is on **health tech, embedded AI, and scalable software architectures** that actually ship.
 
-Currently working on:
-- 🧠 Non-invasive **glucose monitoring system** (spectroscopy + ML)
-- ⚙️ Embedded & IoT systems (Arduino, ESP32, Raspberry Pi)
-- 📊 Data science & machine learning pipelines
+---
+
+## 🧠 What I’m focused on right now
+- 🔬 **Non-invasive glucose monitoring system** (embedded + optics + ML)
+- 🤖 Embedded systems & hardware–software co-design
+- 📊 Machine Learning & signal processing
+- ☁️ Scalable backend systems, DevOps & cloud-native tools
 - 🚀 Turning research prototypes into real products
 
 ---
 
-## 🔬 What I Do
+## 🛠 Core Skills
 
-- **Embedded Systems**  
-  Hardware–software integration, sensors, signal acquisition, low-noise electronics
+### Software & Systems
+- **Languages:** Python, C/C++, Java, JavaScript, TypeScript, Swift  
+- **Frameworks:** React, React Native, Next.js, Node.js  
+- **Backend:** REST APIs, MQTT, Firebase, PostgreSQL, MongoDB  
+- **DevOps:** Docker, Kubernetes, CI/CD, Linux, Git
 
-- **Machine Learning & Data Science**  
-  Python, ML pipelines, signal processing, real-world noisy data
+### Embedded & Hardware
+- Arduino, ESP32, Raspberry Pi  
+- Sensors, photodiodes, IR LEDs, signal conditioning  
+- Real-time data acquisition & processing  
+- Hardware safety & system validation
 
-- **Software Engineering**  
-  Clean architecture, APIs, cloud, DevOps, mobile & web apps
-
-- **Health & Wearable Tech**  
-  Biomedical sensing, calibration, safety-aware system design
-
----
-
-## 🧰 Tech Stack (Focused & Relevant)
-
-**Languages**
-- Python · C/C++ · Java · JavaScript · TypeScript · Swift
-
-**Embedded / Hardware**
-- Arduino · ESP32 · Raspberry Pi  
-- Sensors · Photodiodes · IR LEDs · Signal conditioning
-
-**ML / Data**
-- NumPy · Pandas · Scikit-Learn · PyTorch · TensorFlow  
-- Matplotlib · Seaborn · OpenCV
-
-**Backend / Cloud**
-- Docker · Kubernetes · AWS · GCP · Firebase  
-- PostgreSQL · MongoDB · REST APIs
-
-**Frontend / Mobile**
-- React · React Native · Next.js  
-- Swift (iOS)
+### Data & ML
+- NumPy, Pandas, Scikit-learn, PyTorch  
+- Signal processing & feature extraction  
+- Data visualization & experimentation pipelines
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlight Projects
 
 ### 🩸 Non-Invasive Glucose Monitoring (Thesis + Startup)
-- Multi-wavelength optical sensing (NIR/SWIR)
-- Custom TIA amplifier & low-noise electronics
-- Embedded data acquisition + ML calibration
-- Mobile & web visualization
-- Designed with medical safety standards in mind
+- Multi-wavelength optical sensing (NIR)
+- Custom TIA amplifier & embedded data acquisition
+- ML-based calibration & signal analysis
+- Web dashboard + mobile integration  
+➡️ **From physics → hardware → software → ML → product**
 
-### 🖨️ Smart 3D Printer Network (IoT)
-- Raspberry Pi–based remote access system
+### 🖨️ Smart 3D Printer Network
+- Raspberry Pi–based remote printer control
 - Web dashboard with authentication
-- Real-time monitoring & control
+- IoT data pipelines & monitoring
 
-### 📱 Mobile Sensing Applications
-- Sensor-based event detection
-- Cloud sync & real-time visualization
-- Battery-aware background execution
+### 📱 Mobile & Web Apps
+- Cross-platform apps with React Native & Flutter
+- Real-time dashboards, analytics & UX design
+- Cloud deployment & CI/CD pipelines
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razib91lightspeed&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razib91lightspeed&layout=compact&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=razib91lightspeed&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razib91lightspeed&layout=compact&theme=transparent" height="165"/>
 </p>
 
 <p align="center">
@@ -88,20 +72,19 @@ Currently working on:
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/razibhasan2">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
-  </a>
-  <a href="https://twitter.com/@razibha28487029">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
-  </a>
-  <a href="https://instagram.com/razib.hasan2">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
-  </a>
-</p>
+## 🌍 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/razibhasan2  
+- 🐦 Twitter/X: https://twitter.com/razibha28487029  
+- 📸 Instagram: https://instagram.com/razib.hasan2  
 
 ---
 
-⭐ *I’m interested in impactful engineering problems, especially in health tech, embedded systems, and intelligent products.*
+## ⚡ A bit about me
+- 🎓 Background in **Software Engineering + Data Science**
+- 🔧 Strong embedded & hardware curiosity
+- 🌍 Traveled to 30+ countries — curious by nature
+- 🧩 I like hard problems that sit **between disciplines**
+
+---
+
+> *“I don’t just write code — I build systems.”*
