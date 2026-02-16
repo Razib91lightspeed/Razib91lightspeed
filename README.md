@@ -15,15 +15,6 @@ My passion lies in **health technology, embedded AI, robotics, and real-world pr
 
 > * I enjoy building systems.*
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
-</p>
 
 ---
 
