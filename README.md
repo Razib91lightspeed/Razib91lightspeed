@@ -4,69 +4,105 @@
   width="100%"
 />
 
-
 # 👋 Hi, I'm Razib Hasan
 
-**Software Engineer | Embedded Systems & ML | Builder of real-world systems**  
-📍 Finland 🇫🇮
+**Software Engineer | Embedded Systems | Machine Learning | Health Tech Builder**  
+📍 Finland 🇫🇮  
 
-I design and build **end-to-end systems** — from low-level embedded hardware to cloud-backed software and data-driven intelligence.  
-My focus is on **health tech, embedded AI, and scalable software architectures** that actually ship.
+I design and build **end-to-end intelligent systems** — from low-level embedded hardware and signal acquisition to scalable cloud software and machine learning pipelines.
+
+My passion lies in **health technology, embedded AI, robotics, and real-world product engineering**.
+
+> * I enjoy building systems.*
 
 ---
 
-## 🧠 What I’m focused on right now
-- 🔬 **Health Tech** (embedded + optics + ML)
-- 🤖 Embedded systems & hardware–software co-design
-- 📊 Machine Learning & signal processing
-- ☁️ MLOps (Kubernetes + Model Training)
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
+</p>
+
+---
+
+# 🧠 Current Focus
+
+- 🔬 Health Tech & Biomedical Sensing
+- 🤖 Embedded Systems & Robotics
+- 📊 Machine Learning & Signal Processing
+- ☁️ MLOps & Cloud-Connected Devices
 - 🚀 Turning research prototypes into real products
 
 ---
 
-## 🛠 Core Skills
+# 🛠 Core Skills
 
-### Software & Systems
-- **Languages:** Python, C/C++, Java, JavaScript, TypeScript, Swift  
+## Software & Systems
+- **Languages:** Python, C/C++, Java, TypeScript, JavaScript, Swift  
 - **Frameworks:** React, React Native, Next.js, Node.js  
 - **Backend:** REST APIs, MQTT, Firebase, PostgreSQL, MongoDB  
-- **DevOps:** Docker, Kubernetes, CI/CD, Linux, Git
+- **DevOps:** Docker, Kubernetes, CI/CD, Linux, Git  
 
-### Embedded & Hardware
-- Arduino, ESP32, Raspberry Pi  
-- Sensors, photodiodes, IR LEDs, signal conditioning  
+## Embedded & Hardware
+- ESP32, Arduino, Raspberry Pi  
+- Sensors, photodiodes, IR optics, signal conditioning  
 - Real-time data acquisition & processing  
-- Hardware safety & system validation
+- Hardware validation & reliability testing  
 
-### Data & ML
+## Data & Machine Learning
 - NumPy, Pandas, Scikit-learn, PyTorch  
-- Signal processing & feature extraction  
-- Data visualization & experimentation pipelines
+- Signal processing & feature engineering  
+- Experimental pipelines & calibration models  
+- Data visualization & analysis  
 
 ---
 
-## 🚀 Highlight Projects
+# 🚀 Highlight Projects
 
-### 🩸 Non-Invasive Glucose Monitoring (Thesis + Startup)
-- Multi-wavelength optical sensing (NIR)
-- Custom TIA amplifier & embedded data acquisition
+## 🩸 Non-Invasive Glucose Monitoring (Thesis + Startup)
+
+End-to-end biosensing system combining physics, electronics, embedded firmware, and machine learning.
+
+- Multi-wavelength optical sensing (NIR spectroscopy)
+- Custom TIA amplifier & embedded acquisition firmware
 - ML-based calibration & signal analysis
-- Web dashboard + mobile integration  
-➡️ **From physics → hardware → software → ML → product**
+- Web dashboard & wireless data pipeline
+- Prototype → validation → product direction
 
-### 🖨️ Smart 3D Printer Network
+**Full-stack engineering across disciplines.**
+
+---
+
+## 🤖 Autonomous Robotics & Embedded Systems
+
+- Real-time obstacle detection with sensors
+- Embedded motor control and navigation logic
+- Remote control via web interface
+- Sensor fusion & safety-aware decision logic
+
+---
+
+## 🖨️ Smart 3D Printer Network Platform
+
 - Raspberry Pi–based remote printer control
 - Web dashboard with authentication
-- IoT data pipelines & monitoring
-
-### 📱 Mobile & Web Apps
-- Cross-platform apps with React Native & Flutter
-- Real-time dashboards, analytics & UX design
-- Cloud deployment & CI/CD pipelines
+- IoT monitoring and device management
+- Lab-scale deployment with multiple users
 
 ---
 
-## 📊 GitHub Insights
+## 📱 Mobile & Cloud Applications
+
+- Cross-platform apps (React Native / Flutter)
+- Real-time dashboards & analytics
+- Backend APIs and cloud deployment
+- CI/CD automation pipelines
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razib91lightspeed&theme=transparent"/>
@@ -81,22 +117,32 @@ My focus is on **health tech, embedded AI, and scalable software architectures**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razib91lightspeed&theme=transparent&utcOffset=2"/>
 </p>
 
+---
+
+# 🎓 Background
+
+- 🎓 Software Engineering Graduate
+- 🎓 Master’s in Computer Science (Finland)
+- 🔧 Embedded Systems & Machine Learning specialization
+- 🏆 Hackathon Winner (AWS & Microsoft)
 
 ---
 
-## 🌍 Connect with Me
+# 🌍 Connect With Me
+
 - 💼 LinkedIn: https://linkedin.com/in/razibhasan2  
 - 🐦 Twitter/X: https://twitter.com/razibha28487029  
 - 📸 Instagram: https://instagram.com/razib.hasan2  
 
 ---
 
-## ⚡ A bit about me
-- 🎓 Background in **Software Engineering + Data Science**
-- 🔧 Strong embedded & hardware curiosity
-- 🌍 Traveled to 30+ countries — curious by nature
-- 🧩 I like hard problems that sit **between disciplines**
+# ⚡ About Me
+
+- 🌍 Traveled to 30+ countries — curious mindset
+- 🧩 Passion for interdisciplinary engineering problems
+- 🛠 Builder mentality: hardware + software + AI
+- 🚀 Interested in startups and impactful technology
 
 ---
 
-> *“I don’t just write code — I build systems.”*
+⭐ If you’re interested in collaboration, research, or building something meaningful — feel free to connect.
