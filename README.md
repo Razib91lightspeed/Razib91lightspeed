@@ -1,139 +1,97 @@
-<img 
-  src="https://github.com/Razib91lightspeed/Razib91lightspeed/blob/main/Razib_Hasan.png" 
-  alt="Razib Hasan Banner"
-  width="100%"
-/>
+<p align="center">
+  <img src="https://github.com/Razib91lightspeed/Razib91lightspeed/blob/main/Razib_Hasan.png" alt="Razib Hasan Banner" width="100%" />
+</p>
 
 # 👋 Hi, I'm Razib Hasan
 
-**Software Engineer | Embedded Systems | Machine Learning | Health Tech Builder**  
-📍 Finland 🇫🇮  
+**Software Engineer | Embedded Systems & ML | Builder of real-world systems** 📍 Finland 🇫🇮
 
-I design and build **end-to-end intelligent systems** — from low-level embedded hardware and signal acquisition to scalable cloud software and machine learning pipelines.
-
-My passion lies in **health technology, embedded AI, robotics, and real-world product engineering**.
-
-> * I enjoy building systems.*
-
+I design and build **end-to-end systems** — from low-level embedded hardware to cloud-backed software and data-driven intelligence. My focus is on **health tech, embedded AI, and scalable software architectures** that actually ship.
 
 ---
 
-# 🧠 Current Focus
+## 🧠 What I’m focused on right now
 
-- 🔬 Health Tech & Biomedical Sensing
-- 🤖 Embedded Systems & Robotics
-- 📊 Machine Learning & Signal Processing
-- ☁️ MLOps & Cloud-Connected Devices
-- 🚀 Turning research prototypes into real products
-
----
-
-# 🛠 Core Skills
-
-## Software & Systems
-- **Languages:** Python, C/C++, Java, TypeScript, JavaScript, Swift  
-- **Frameworks:** React, React Native, Next.js, Node.js  
-- **Backend:** REST APIs, MQTT, Firebase, PostgreSQL, MongoDB  
-- **DevOps:** Docker, Kubernetes, CI/CD, Linux, Git  
-
-## Embedded & Hardware
-- ESP32, Arduino, Raspberry Pi  
-- Sensors, photodiodes, IR optics, signal conditioning  
-- Real-time data acquisition & processing  
-- Hardware validation & reliability testing  
-
-## Data & Machine Learning
-- NumPy, Pandas, Scikit-learn, PyTorch  
-- Signal processing & feature engineering  
-- Experimental pipelines & calibration models  
-- Data visualization & analysis  
+- 🔬 **Health Tech** (embedded + optics + ML)
+- 🤖 **Embedded systems** & hardware–software co-design
+- 📊 **Machine Learning** & signal processing
+- ☁️ **MLOps** (Kubernetes + Model Training)
+- 🚀 **Turning research prototypes** into real products
 
 ---
 
-# 🚀 Highlight Projects
+## 🛠 Core Skills
 
-## 🩸 Non-Invasive Glucose Monitoring (Thesis + Startup)
+### Software & Systems
+* **Languages:** Python, C/C++, Java, JavaScript, TypeScript, Swift
+* **Frameworks:** React, React Native, Next.js, Node.js
+* **Backend:** REST APIs, MQTT, Firebase, PostgreSQL, MongoDB
+* **DevOps:** Docker, Kubernetes, CI/CD, Linux, Git
 
-End-to-end biosensing system combining physics, electronics, embedded firmware, and machine learning.
+### Embedded & Hardware
+* Arduino, ESP32, Raspberry Pi
+* Sensors, photodiodes, IR LEDs, signal conditioning
+* Real-time data acquisition & processing
+* Hardware safety & system validation
 
-- Multi-wavelength optical sensing (NIR spectroscopy)
-- Custom TIA amplifier & embedded acquisition firmware
-- ML-based calibration & signal analysis
-- Web dashboard & wireless data pipeline
-- Prototype → validation → product direction
-
-**Full-stack engineering across disciplines.**
-
----
-
-## 🤖 Autonomous Robotics & Embedded Systems
-
-- Real-time obstacle detection with sensors
-- Embedded motor control and navigation logic
-- Remote control via web interface
-- Sensor fusion & safety-aware decision logic
+### Data & ML
+* NumPy, Pandas, Scikit-learn, PyTorch
+* Signal processing & feature extraction
+* Data visualization & experimentation pipelines
 
 ---
 
-## 🖨️ Smart 3D Printer Network Platform
+## 🚀 Highlight Projects
 
-- Raspberry Pi–based remote printer control
-- Web dashboard with authentication
-- IoT monitoring and device management
-- Lab-scale deployment with multiple users
+### 🩸 Non-Invasive Glucose Monitoring (Thesis + Startup)
+* Multi-wavelength optical sensing (NIR)
+* Custom TIA amplifier & embedded data acquisition
+* ML-based calibration & signal analysis
+* Web dashboard + mobile integration
+* **Impact:** From physics → hardware → software → ML → product
+
+### 🖨️ Smart 3D Printer Network
+* Raspberry Pi–based remote printer control
+* Web dashboard with authentication
+* IoT data pipelines & monitoring
+
+### 📱 Mobile & Web Apps
+* Cross-platform apps with React Native & Flutter
+* Real-time dashboards, analytics & UX design
+* Cloud deployment & CI/CD pipelines
 
 ---
 
-## 📱 Mobile & Cloud Applications
-
-- Cross-platform apps (React Native / Flutter)
-- Real-time dashboards & analytics
-- Backend APIs and cloud deployment
-- CI/CD automation pipelines
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razib91lightspeed&theme=transparent"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razib91lightspeed&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razib91lightspeed&theme=transparent" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razib91lightspeed&theme=transparent" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razib91lightspeed&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razib91lightspeed&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razib91lightspeed&theme=transparent&utcOffset=2"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razib91lightspeed&theme=transparent&utcOffset=2" />
 </p>
 
 ---
 
-# 🎓 Background
+## 🌍 Connect with Me
 
-- 🎓 Software Engineering Graduate
-- 🎓 Master’s in Computer Science (Finland)
-- 🔧 Embedded Systems & Machine Learning specialization
-- 🏆 Hackathon Winner (AWS & Microsoft)
-
----
-
-# 🌍 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/razibhasan2  
-- 🐦 Twitter/X: https://twitter.com/razibha28487029  
-- 📸 Instagram: https://instagram.com/razib.hasan2  
+* 💼 [LinkedIn](https://linkedin.com/in/razibhasan2)
+* 🐦 [Twitter/X](https://twitter.com/razibha28487029)
+* 📸 [Instagram](https://instagram.com/razib.hasan2)
 
 ---
 
-# ⚡ About Me
+## ⚡ A bit about me
 
-- 🌍 Traveled to 30+ countries — curious mindset
-- 🧩 Passion for interdisciplinary engineering problems
-- 🛠 Builder mentality: hardware + software + AI
-- 🚀 Interested in startups and impactful technology
+* 🎓 Background in **Software Engineering + Data Science**
+* 🔧 Strong embedded & hardware curiosity
+* 🌍 Traveled to **30+ countries** — curious by nature
+* 🧩 I like hard problems that sit **between disciplines**
 
----
-
-⭐ If you’re interested in collaboration, research, or building something meaningful — feel free to connect.
+> *“I don’t just write code — I build systems.”*
